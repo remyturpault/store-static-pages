@@ -2,4 +2,8 @@
 
 index.html : liste des produits
 
-cart.html : détail du panier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
+![index.html](https://github.com/remyturpault/store-static-pages/blob/main/home.png)
+
+cart.html : détail du panier
+
+![cart.html](https://github.com/remyturpault/store-static-pages/blob/main/cart.png)
